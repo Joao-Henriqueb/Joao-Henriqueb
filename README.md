@@ -23,4 +23,3 @@
 </div>
 
 
-![snake gif](https://github.com/Joao-Henriqueb/Joao-Henriqueb/blob/output/github-contribution-grid-snake.gif)
