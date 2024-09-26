@@ -1,12 +1,10 @@
-### Olá, Eu sou João Henrique,Desenvolvedor FrontEnd👋
+###                    Olá, Eu sou João Henrique,💻 Desenvolvedor Web👋
 
+🚀 Desenvolvedor Web em crescimento | Estudante de Engenharia de Software | Criador de conteúdo técnico
+Bem-vindo ao meu perfil! Sou um desenvolvedor web em formação com foco no desenvolvimento de soluções criativas e funcionais para web. Atualmente, estou cursando Engenharia de Software e tenho experiência em algumas tecnologias que me permitem atuar tanto no frontend quanto no backend.
 
-<div>
- <a href="https://github.com/Joao-Henriqueb">
- <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Joao-Henriqueb&theme=vision-friendly-dark&show_icons=true) style="max-width:100%;"/>
- <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Henriqueb&theme=vision-friendly-dark&show_icons=true) style="max-width:"100%;"/>
- </a>
- </div>
+![ambiente futuristico](https://github.com/user-attachments/assets/97bbcb85-ce30-4879-96d9-360fbca56fe2)
+
   <br>
  <div>
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
